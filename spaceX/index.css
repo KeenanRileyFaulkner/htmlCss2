@@ -93,3 +93,9 @@ button {
     width: 165px;
     height: 55px;
 }
+
+button:hover {
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+}
