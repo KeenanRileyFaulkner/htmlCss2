@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+#header {
+    background-color: #444444;
+    height: 165px;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    z-index: 3;
+}
+
+#leftSide {
+    background-color: #d8d8d8;
+    height: 859px;
+    width: 160px;
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    z-index: 2;
+}
+
+#rightSide {
+    background-color: #d8d8d8;
+    height: 859px;
+    width: 160px;
+    position: fixed;
+    bottom: 0%;
+    right: 0%;
+    z-index: 2;
+}
+
+#footer {
+    background-color: #222222;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    bottom: 0%;
+}
